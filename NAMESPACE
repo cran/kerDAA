@@ -1,0 +1,2 @@
+export(kerdaa)
+importFrom("stats", "dist", "median", "pnorm", "pcauchy")
