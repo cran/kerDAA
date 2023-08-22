@@ -1,5 +1,5 @@
 \name{kerDAA}
-\alias{kerDAA}
+\alias{kerDAA-package}
 \title{New kernel-based test for differential association analysis}
 \description{This package can be used to determine whether two high-dimensional samples have similar dependence relationships across two conditions.}
 \author{

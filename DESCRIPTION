@@ -1,7 +1,7 @@
 Package: kerDAA
 Type: Package
 Title: New Kernel-Based Test for Differential Association Analysis
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(person("Hoseung", "Song", role = c("aut", "cre"),
                      email = "hsong3@fredhutch.org"),
              person("Michael", "C. Wu", role = "aut"))
@@ -15,6 +15,6 @@ Description: A new practical method to evaluate whether relationships between tw
 License: GPL (>= 2)
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2023-08-12 21:52:41 UTC; hsong3
+Packaged: 2023-08-22 20:40:23 UTC; hsong3
 Repository: CRAN
-Date/Publication: 2023-08-15 10:00:05 UTC
+Date/Publication: 2023-08-22 21:00:06 UTC

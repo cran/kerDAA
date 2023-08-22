@@ -21,7 +21,7 @@ kerdaa(X1, Y1, X2, Y2, perm=0)
   \item{pval_perm}{The omnibus p-value using the permutation p-values of the test statistic when argument `perm' is positive.}
 }
 \seealso{
-  \code{\link{kerDAA}}
+  \code{\link{kerDAA-package}}
 }
 \examples{
 
